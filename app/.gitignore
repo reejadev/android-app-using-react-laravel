@@ -46,3 +46,5 @@ app-example
 android/build/
 android/app/build/
 .gradle/
+
+app/config/env.ts
