@@ -1,0 +1,3 @@
+export const API_BASE_URL =  'http://172.20.10.3:8000/api';
+
+export const STRIPE_PUBLISHABLE_KEY = 'pk_test_51Q0LkAP031Mr5jv3PbYLSFCFTLCAEqEdzcakpB5yQkKbAK5ugk1HTgpUVVZqNb8R4fFFxt5YWCEoQD2HYuccdQgl0050WZV3qh'
